@@ -1,0 +1,23 @@
+{
+  "name": "TAPro-DEV",
+  "short_name": "TAPro-DEV",
+  "description": "AI Trading",
+  "start_url": "https://script.google.com/macros/s/AKfycbyeNM6dz7j21nZxOuReXwa741d8awsi9reJM-7VCAFXgUGeYiGL6FoscwWKdBCJqS91/exec",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://img5.pic.in.th/file/secure-sv1/Untitled-design78475b1f5d20979f.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://img5.pic.in.th/file/secure-sv1/Untitled-design78475b1f5d20979f.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "portrait",
+  "prefer_related_applications": false
+}
