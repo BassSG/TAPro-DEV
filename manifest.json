@@ -2,7 +2,7 @@
   "name": "TAPro-DEV",
   "short_name": "TAPro-DEV",
   "description": "AI Trading",
-  "start_url": "https://script.google.com/macros/s/AKfycbznPJEHLFsXPWhX7jH4mKWFS30qLEaAt27IpKSIgwzrLDVReXZOjAe8qi1hgkuJHCZS/exec",
+  "start_url": "https://script.google.com/macros/s/AKfycbx0wlY_zmkOydRAyIovEdPxNaTqELtt40UJt0cZUXhbA289lYfcIYi5G5NFwV3xv3I/exec",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
